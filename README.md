@@ -1,2 +1,2 @@
 # dl_hse
-Homework by DL HSE
+Соколовский Степан Павлович
